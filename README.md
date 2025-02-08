@@ -14,7 +14,7 @@
 
 ## Требования
 - Java Development Kit (JDK) 8 или выше
-- MySQL Server
+- DBeaver
 - Maven (для управления зависимостями)
 
 ## 📦 Installation
