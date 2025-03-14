@@ -5,7 +5,7 @@ import java.util.Date;
 
 
 @Entity
-@Table(name = "employees")
+@Table(name = "Пользователи")
 public class User {
 
     @Id
